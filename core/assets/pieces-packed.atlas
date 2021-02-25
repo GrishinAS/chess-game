@@ -1,0 +1,90 @@
+
+pieces-packed.png
+size: 2048, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+bishop_black
+  rotate: false
+  xy: 1553, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+bishop_white
+  rotate: false
+  xy: 1271, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+king_black
+  rotate: false
+  xy: 1412, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+king_white
+  rotate: false
+  xy: 1130, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+knight_black
+  rotate: false
+  xy: 989, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+knight_white
+  rotate: false
+  xy: 425, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+pawn_black
+  rotate: false
+  xy: 848, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+pawn_white
+  rotate: false
+  xy: 284, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+queen_black
+  rotate: false
+  xy: 566, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+queen_white
+  rotate: false
+  xy: 2, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+rook_black
+  rotate: false
+  xy: 707, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
+rook_white
+  rotate: false
+  xy: 143, 2
+  size: 139, 234
+  orig: 139, 234
+  offset: 0, 0
+  index: -1
